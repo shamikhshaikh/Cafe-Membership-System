@@ -30,9 +30,6 @@ DSAProject/
 ├── lastCustomerIds.txt # Tracks latest customer ID
 ├── lastOrderId.txt # Tracks latest order ID
 
-yaml
-Copy
-Edit
 
 ---
 
