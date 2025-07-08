@@ -1,0 +1,6 @@
+Customer ID = P1
+Items = 
+Deal 1, (1)
+Order Id = 1
+ 
+ 
